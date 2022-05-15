@@ -3,9 +3,6 @@ a API for tennis competitions.
 This site has been created to simulate the tennis registration information system. It has features such as adding nationality, players and tennis competition. It uses the hyperlink feature in serializers to make it easier to access related objects. It also uses the django filter feature to search, sort and filter information. The use of throttling has allowed us to limit the number of requests in different sections and by different users.
 
 
-# shop
-a shopping Django project
-
 
 ## Setup
 
