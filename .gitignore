@@ -139,3 +139,4 @@ GitHub.sublime-settings
 
 # settings passwords
 config.py
+db.sqlite3
